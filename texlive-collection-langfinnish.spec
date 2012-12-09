@@ -33,3 +33,12 @@ Support for typesetting Finnish.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780385
+- Update to latest release.
+- Import texlive-collection-langfinnish
+- Import texlive-collection-langfinnish
+
