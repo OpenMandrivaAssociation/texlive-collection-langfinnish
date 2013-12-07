@@ -7,7 +7,7 @@
 Name:		texlive-collection-langfinnish
 Epoch:		1
 Version:	20120224
-Release:	2
+Release:	3
 Summary:	Finnish
 Group:		Publishing
 URL:		http://tug.org/texlive
